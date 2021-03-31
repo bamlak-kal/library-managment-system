@@ -1,0 +1,151 @@
+BookID	BookTitle	ISBN	Author	PurchaseDate	Status
+0	Echo Angelica	3773739648655	Talitha Jang	11/8/2007	8145
+1	Echo Angelica	3773739648655	Talitha Jang	11/8/2007	1000
+2	Echo Angelica	3773739648655	Talitha Jang	11/8/2007	4955
+3	Echo Angelica	3773739648655	Talitha Jang	11/8/2007	0
+4	Echo Angelica	3773739648655	Talitha Jang	11/8/2007	1233
+5	Always	3897532231260	Enda Marmon	9/2/2004	1222
+6	Always	3897532231260	Enda Marmon	9/2/2004	1233
+7	Always	3897532231260	Enda Marmon	9/2/2004	2760
+8	Always	3897532231260	Enda Marmon	9/2/2004	9090
+9	Always	3897532231260	Enda Marmon	9/2/2004	1222
+10	Identity Bluets	6258622542068	Shirly Annunziata	16/7/2002	1233
+11	Identity Bluets	6258622542068	Shirly Annunziata	16/7/2002	0
+12	Identity Bluets	6258622542068	Shirly Annunziata	16/7/2002	0
+13	Identity Bluets	6258622542068	Shirly Annunziata	16/7/2002	1233
+14	Identity Bluets	6258622542068	Shirly Annunziata	16/7/2002	0
+15	Lita Lucy	8373077182144	Sabra Cookson	20/2/1983	9090
+16	Lita Lucy	8373077182144	Sabra Cookson	20/2/1983	0
+17	Lita Lucy	8373077182144	Sabra Cookson	20/2/1983	0
+18	Lita Lucy	8373077182144	Sabra Cookson	20/2/1983	8972
+19	Lita Lucy	8373077182144	Sabra Cookson	20/2/1983	1201
+20	Shane Beaufort	8814940664964	Enda Marmon	25/10/2011	7533
+21	Shane Beaufort	8814940664964	Enda Marmon	25/10/2011	6036
+22	Shane Beaufort	8814940664964	Enda Marmon	25/10/2011	1749
+23	Shane Beaufort	8814940664964	Enda Marmon	25/10/2011	0
+24	Shane Beaufort	8814940664964	Enda Marmon	25/10/2011	3586
+25	Twilight	1823293515687	Miranda Mclellan	2/8/2011	1012
+26	Twilight	1823293515687	Miranda Mclellan	2/8/2011	0
+27	Twilight	1823293515687	Miranda Mclellan	2/8/2011	9429
+28	Twilight	1823293515687	Miranda Mclellan	2/8/2011	0
+29	Twilight	1823293515687	Miranda Mclellan	2/8/2011	4042
+30	Eragon	3200503448595	Lady Bullen	7/7/2014	6868
+31	Eragon	3200503448595	Lady Bullen	7/7/2014	0
+32	Eragon	3200503448595	Lady Bullen	7/7/2014	2659
+33	Eragon	3200503448595	Lady Bullen	7/7/2014	8237
+34	Eragon	3200503448595	Lady Bullen	7/7/2014	0
+35	Firewall Changeless	9237967268433	Argentina Narciso	19/8/2005	2332
+36	Firewall Changeless	9237967268433	Argentina Narciso	19/8/2005	4774
+37	Firewall Changeless	9237967268433	Argentina Narciso	19/8/2005	8678
+38	Firewall Changeless	9237967268433	Argentina Narciso	19/8/2005	0
+39	Firewall Changeless	9237967268433	Argentina Narciso	19/8/2005	3398
+40	Emma Quentins	2260775113642	Dian Huard	23/10/1997	7685
+41	Emma Quentins	2260775113642	Dian Huard	23/10/1997	6668
+42	Emma Quentins	2260775113642	Dian Huard	23/10/1997	2842
+43	Emma Quentins	2260775113642	Dian Huard	23/10/1997	0
+44	Emma Quentins	2260775113642	Dian Huard	23/10/1997	7071
+45	Eclipse Firewall	9888633140450	Fredia Hurston	17/3/2008	0
+46	Eclipse Firewall	9888633140450	Fredia Hurston	17/3/2008	4486
+47	Eclipse Firewall	9888633140450	Fredia Hurston	17/3/2008	5513
+48	Eclipse Firewall	9888633140450	Fredia Hurston	17/3/2008	0
+49	Eclipse Firewall	9888633140450	Fredia Hurston	17/3/2008	3265
+50	Angelica	8888514967473	Arlie Sand	11/5/1999	0
+51	Angelica	8888514967473	Arlie Sand	11/5/1999	1780
+52	Angelica	8888514967473	Arlie Sand	11/5/1999	7232
+53	Angelica	8888514967473	Arlie Sand	11/5/1999	6209
+54	Angelica	8888514967473	Arlie Sand	11/5/1999	9027
+55	PrairyErth Eunoia	7029623909847	Johna Darosa	7/5/2007	1625
+56	PrairyErth Eunoia	7029623909847	Johna Darosa	7/5/2007	0
+57	PrairyErth Eunoia	7029623909847	Johna Darosa	7/5/2007	9721
+58	PrairyErth Eunoia	7029623909847	Johna Darosa	7/5/2007	9713
+59	PrairyErth Eunoia	7029623909847	Johna Darosa	7/5/2007	0
+60	Cubicles Birdsong	9087590758582	Sabra Cookson	16/9/2011	0
+61	Cubicles Birdsong	9087590758582	Sabra Cookson	16/9/2011	0
+62	Cubicles Birdsong	9087590758582	Sabra Cookson	16/9/2011	0
+63	Cubicles Birdsong	9087590758582	Sabra Cookson	16/9/2011	0
+64	Cubicles Birdsong	9087590758582	Sabra Cookson	16/9/2011	9571
+65	Kitchen	3712366558666	Shirly Annunziata	4/1/2011	0
+66	Kitchen	3712366558666	Shirly Annunziata	4/1/2011	0
+67	Kitchen	3712366558666	Shirly Annunziata	4/1/2011	3724
+68	Kitchen	3712366558666	Shirly Annunziata	4/1/2011	2472
+69	Kitchen	3712366558666	Shirly Annunziata	4/1/2011	7627
+70	Elsewhere	1402082895766	Shirly Annunziata	30/1/2010	7116
+71	Elsewhere	1402082895766	Shirly Annunziata	30/1/2010	2016
+72	Elsewhere	1402082895766	Shirly Annunziata	30/1/2010	0
+73	Elsewhere	1402082895766	Shirly Annunziata	30/1/2010	4279
+74	Elsewhere	1402082895766	Shirly Annunziata	30/1/2010	1608
+75	Coraline	8478296814952	Robby Luedtke	17/6/2011	4451
+76	Coraline	8478296814952	Robby Luedtke	17/6/2011	0
+77	Coraline	8478296814952	Robby Luedtke	17/6/2011	9855
+78	Coraline	8478296814952	Robby Luedtke	17/6/2011	8901
+79	Coraline	8478296814952	Robby Luedtke	17/6/2011	8679
+80	Possession Blink	2859309779833	Sabra Cookson	20/1/2011	0
+81	Possession Blink	2859309779833	Sabra Cookson	20/1/2011	9835
+82	Possession Blink	2859309779833	Sabra Cookson	20/1/2011	2898
+83	Possession Blink	2859309779833	Sabra Cookson	20/1/2011	0
+84	Possession Blink	2859309779833	Sabra Cookson	20/1/2011	0
+85	Firewall	9470611320631	Lady Bullen	30/4/1992	0
+86	Firewall	9470611320631	Lady Bullen	30/4/1992	0
+87	Firewall	9470611320631	Lady Bullen	30/4/1992	0
+88	Firewall	9470611320631	Lady Bullen	30/4/1992	1440
+89	Firewall	9470611320631	Lady Bullen	30/4/1992	0
+90	Quentins Fingersmith	4763656546182	Blanca Hartig	21/10/1998	6794
+91	Quentins Fingersmith	4763656546182	Blanca Hartig	21/10/1998	0
+92	Quentins Fingersmith	4763656546182	Blanca Hartig	21/10/1998	0
+93	Quentins Fingersmith	4763656546182	Blanca Hartig	21/10/1998	7779
+94	Quentins Fingersmith	4763656546182	Blanca Hartig	21/10/1998	0
+95	Siddhartha	7464338391063	Argentina Narciso	17/7/2015	0
+96	Siddhartha	7464338391063	Argentina Narciso	17/7/2015	6111
+97	Siddhartha	7464338391063	Argentina Narciso	17/7/2015	5355
+98	Siddhartha	7464338391063	Argentina Narciso	17/7/2015	0
+99	Siddhartha	7464338391063	Argentina Narciso	17/7/2015	0
+100	Kitchen Diary	4793854593159	Lady Bullen	26/7/2011	5000
+101	Kitchen Diary	4793854593159	Lady Bullen	26/7/2011	0
+102	Kitchen Diary	4793854593159	Lady Bullen	26/7/2011	9558
+103	Kitchen Diary	4793854593159	Lady Bullen	26/7/2011	0
+104	Kitchen Diary	4793854593159	Lady Bullen	26/7/2011	3330
+105	Kitchen Freedom	8341321120106	Holly Gaudreau	30/5/2005	2044
+106	Kitchen Freedom	8341321120106	Holly Gaudreau	30/5/2005	0
+107	Kitchen Freedom	8341321120106	Holly Gaudreau	30/5/2005	0
+108	Kitchen Freedom	8341321120106	Holly Gaudreau	30/5/2005	5651
+109	Kitchen Freedom	8341321120106	Holly Gaudreau	30/5/2005	7565
+110	Weight Beauty	8796709590234	Talitha Jang	29/6/1981	7779
+111	Weight Beauty	8796709590234	Talitha Jang	29/6/1981	4556
+112	Weight Beauty	8796709590234	Talitha Jang	29/6/1981	0
+113	Weight Beauty	8796709590234	Talitha Jang	29/6/1981	0
+114	Weight Beauty	8796709590234	Talitha Jang	29/6/1981	8734
+115	Penseés	8988568858391	Robby Luedtke	16/12/1984	6909
+116	Penseés	8988568858391	Robby Luedtke	16/12/1984	5483
+117	Penseés	8988568858391	Robby Luedtke	16/12/1984	0
+118	Penseés	8988568858391	Robby Luedtke	16/12/1984	0
+119	Penseés	8988568858391	Robby Luedtke	16/12/1984	0
+120	Possession Angelica	3596400912373	Talitha Jang	25/11/2006	2888
+121	Possession Angelica	3596400912373	Talitha Jang	25/11/2006	0
+122	Possession Angelica	3596400912373	Talitha Jang	25/11/2006	9003
+123	Possession Angelica	3596400912373	Talitha Jang	25/11/2006	9398
+124	Possession Angelica	3596400912373	Talitha Jang	25/11/2006	0
+125	Room Unstuck	9284849051182	Sabra Cookson	18/3/2012	1154
+126	Room Unstuck	9284849051182	Sabra Cookson	18/3/2012	0
+127	Room Unstuck	9284849051182	Sabra Cookson	18/3/2012	4466
+128	Room Unstuck	9284849051182	Sabra Cookson	18/3/2012	5865
+129	Room Unstuck	9284849051182	Sabra Cookson	18/3/2012	8415
+130	Leadership	8342771545971	Talitha Jang	1/6/2016	3098
+131	Leadership	8342771545971	Talitha Jang	1/6/2016	7947
+132	Leadership	8342771545971	Talitha Jang	1/6/2016	0
+133	Leadership	8342771545971	Talitha Jang	1/6/2016	9321
+134	Leadership	8342771545971	Talitha Jang	1/6/2016	7272
+135	Wicked Changeless	1958206466218	Talitha Jang	6/11/2015	2986
+136	Wicked Changeless	1958206466218	Talitha Jang	6/11/2015	1366
+137	Wicked Changeless	1958206466218	Talitha Jang	6/11/2015	4349
+138	Wicked Changeless	1958206466218	Talitha Jang	6/11/2015	9689
+139	Wicked Changeless	1958206466218	Talitha Jang	6/11/2015	6465
+140	Splat Jumper	8369103069593	Arnold Rehn	13/7/1998	3469
+141	Splat Jumper	8369103069593	Arnold Rehn	13/7/1998	0
+142	Splat Jumper	8369103069593	Arnold Rehn	13/7/1998	7380
+143	Splat Jumper	8369103069593	Arnold Rehn	13/7/1998	0
+144	Splat Jumper	8369103069593	Arnold Rehn	13/7/1998	2867
+145	Blameless Maskerade	1586946765570	Johna Darosa	23/5/1984	0
+146	Blameless Maskerade	1586946765570	Johna Darosa	23/5/1984	5880
+147	Blameless Maskerade	1586946765570	Johna Darosa	23/5/1984	4959
+148	Blameless Maskerade	1586946765570	Johna Darosa	23/5/1984	0
+149	Blameless Maskerade	1586946765570	Johna Darosa	23/5/1984	9999
