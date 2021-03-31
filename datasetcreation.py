@@ -71,16 +71,20 @@ def Create_UniqueBooks():
                 uniqueISBN.append(record["ISBN"])
                 uniqueDictList.append(record)
 
-    ### use this for ordering new books
+    # use this for ordering new books
 
         # for item in uniqueDictList:
         #     rate = random.randint(0,5)
         #     newRow = {"BookTitle":item["BookTitle"],"ISBN":item["ISBN"], "Rating":rate}
         #     uniqueBooks_write.writerow(newRow)
 
+try: 
+    numOfbooks = int(input('How many books? '))
+    numOfcopies = int(input('How many copies of each book? '))
+except:
+    print('Enter only numbers. ')
 
-numOfbooks = 150
-numOfcopies = 5
+
 Create_Database(numOfbooks,numOfcopies)
 
 # numOfrows = 5
